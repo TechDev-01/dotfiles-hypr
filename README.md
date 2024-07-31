@@ -17,7 +17,7 @@ pacman -S stow
 Clone the repo using git
 
 ```
-$ git clone git@github.com/dreamsofautonomy/dotfiles.git
+$ git clone git@github.com/TechDev-01/dotfiles-hypr
 $ cd dotfiles
 ```
 Use GNU stow to generate the symlinks
